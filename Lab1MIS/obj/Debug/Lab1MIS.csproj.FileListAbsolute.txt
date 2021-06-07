@@ -1,0 +1,10 @@
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\bin\Debug\Lab1MIS.exe.config
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\bin\Debug\Lab1MIS.exe
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\bin\Debug\Lab1MIS.pdb
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.Form1.resources
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.Properties.Resources.resources
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.csproj.GenerateResource.Cache
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.exe
+c:\users\вероника\documents\visual studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.pdb
+C:\Users\Вероника\Documents\Visual Studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.csprojAssemblyReference.cache
+C:\Users\Вероника\Documents\Visual Studio 2017\Projects\Lab1MIS\Lab1MIS\obj\Debug\Lab1MIS.csproj.CoreCompileInputs.cache
